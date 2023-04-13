@@ -44,7 +44,7 @@ Once you follow through by clicking the various prompts to review and create you
 <br>
   
   
-Now it’s time to create the two virtual machines. It is very important to put the virtual machines in the same resource group, same region, and in the same network
+Now it’s time to create the two virtual machines. It is very important to put the virtual machines in the same resource group, same region, and in the same network.
 <p align = center>
 <img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/13/04/51/c0fIf7Vas0K/preview.jpg" alt=""/>
 </p>
@@ -56,4 +56,5 @@ Now it’s time to create the two virtual machines. It is very important to put 
 </p>
 <p align = center>
   
-  
+  There is much more to do once the virtual machines are created; however, instead of typing all the steps out I have created a detail video documenting the installation of active directory in the Azure Cloud, and using powershell to add multiple users to specific folder. 
+    You can watch this video for further instructions: <a href="https://youtu.be/gneJ5mZnAO4">Click Here</a>
