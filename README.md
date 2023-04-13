@@ -1,5 +1,8 @@
-Here is a video demo of  me installing Active Directory and using powershell script to create random multiple users
 
-<a href="https://youtu.be/gneJ5mZnAO4">Click Here!!!</a>
+<p align="center">
+<img src="https://d1ka0itfguscri.cloudfront.net/r5Jl/2023/04/10/05/49/c0f6hdVaCoW/preview.jpg" alt="osTicket logo"/>
+</p>
+
+
 
 
