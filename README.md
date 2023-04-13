@@ -34,5 +34,8 @@ Next we will click on Resource Group Icon to name and create a resource group. I
 Once you follow through by clicking the various prompts to review and create your resource group, the deployment of your resource group should begin. Just remember to take note of the resource group region. It will be very important in optimizing networking capabilities. 
 
 
-
+<p align = center>
+  You can watch this video for further instructions: <a href="https://youtu.be/gneJ5mZnAO4?t=74">Click Here</a>
+</p>
+<p align = center>
 
